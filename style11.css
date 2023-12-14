@@ -73,3 +73,21 @@ table{
 .contenedor4 form{
     color: white;
 }
+
+
+.contenedor5 {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(3, 3, 39);
+}
+ .text2{
+    color: white;
+    padding: 20px;
+ }
+ .text1{
+    padding: 20px;
+    color: white;
+ }
