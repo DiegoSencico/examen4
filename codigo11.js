@@ -9,3 +9,7 @@ function Descripcion(){
 function lista(){
     console.log("Se agrego una lista de las sedes que tiene SENCICO en todo el Peru");
     }
+
+ function formulario(){
+        console.log ("se agrego un formulario para contactarse con la persona interesada");
+    }

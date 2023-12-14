@@ -58,3 +58,18 @@ table{
 .fila{
     color: black;
 }
+
+.contenedor4{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(3, 3, 39);
+}
+.contenedor4 h2{
+    color: white;
+}
+.contenedor4 form{
+    color: white;
+}
