@@ -1,3 +1,4 @@
+/*commit 2*/
 *{
     margin: 0;
     padding: 0;
@@ -12,4 +13,12 @@
     align-items: center;
     margin: 10px;
     padding: 20px;
+}
+
+/*commit 3*/
+.contenedor2 p{
+    color: blueviolet;
+}
+.contenedor2{
+    margin: 10px;
 }
