@@ -22,3 +22,25 @@
 .contenedor2{
     margin: 10px;
 }
+
+/*commit 4*/
+th, td {
+    border: 1px solid black;
+    background-color: rgba(170, 170, 170, 0.601);
+    padding: 10px;
+}
+.col1{
+    background-color:red;
+}
+table{
+    border-collapse: collapse;
+   
+}
+
+.contenedor3{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
