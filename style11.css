@@ -44,3 +44,17 @@ table{
     justify-content: center;
     align-items: center;
 }
+/*commit 5*/
+.lista{
+    
+    background-color:rgba(170, 170, 170, 0.601);
+    padding: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fila{
+    color: black;
+}
